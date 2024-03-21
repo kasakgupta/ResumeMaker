@@ -10,10 +10,11 @@
     --clr-black: #000;
     --clr-grey: #656e83;
     --clr-green: #084C41;
-    --font-poppins: 'Poppins' , sans-serif;
-    --font-manrope: 'Manrope' , sans-serif;;
+    --font-poppins: 'Poppins', sans-serif;
+    --font-manrope: 'Manrope', sans-serif;
     --transition: all 300ms ease-in-out;
 }
+
 
 *{
     padding: 0;
